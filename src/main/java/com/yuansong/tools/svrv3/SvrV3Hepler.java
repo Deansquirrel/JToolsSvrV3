@@ -66,7 +66,7 @@ private SvrV3Hepler(){}
 			throw new RuntimeException("convert sql config error, not export format");
 		}
 		if(list[1].equals("0")) {
-			throw new RuntimeException("convert sql config error: " + list[2]);
+			throw new RuntimeException("error: " + list[2]);
 		} else if (!list[1].equals("1")) {
 			throw new RuntimeException("convert sql config error, second val exp 0 or 1 act " + list[1]);
 		}
