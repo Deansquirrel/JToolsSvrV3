@@ -4,6 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.yuansong.tools</groupId>
 	<artifactId>tools-svrv3</artifactId>
+	<!--<version>0.0.1</version>-->
 	<version>0.0.0</version>
 	<name>tools-svrv3</name>
 	<description>tools svrv3</description>
